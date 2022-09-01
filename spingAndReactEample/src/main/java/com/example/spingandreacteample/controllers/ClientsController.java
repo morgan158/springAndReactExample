@@ -1,6 +1,8 @@
 
-package com.example.spingandreacteample;
+package com.example.spingandreacteample.controllers;
 
+import com.example.spingandreacteample.repository.ClientRepository;
+import com.example.spingandreacteample.entity.Client;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.List;
